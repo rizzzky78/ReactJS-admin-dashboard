@@ -1,9 +1,30 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# React JS Admin Dashboard
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+## Requirements
+* NodeJS
+* Git Bash
+* Text Editor
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+## How to Setup
+Clone this projects first
+```ts
+git clone https://github.com/rizzzky78/ReactJS-admin-dashboard.git
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+//adjust the folder that you want to put in
+```
+
+Install the dependency
+```ts
+npm i -g -legacy-deps
+```
+Run the script
+```ts
+npm start
+```
+
+## Tags
+[Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+
+## License
+The License are listed above, free to modificate or continue this projects
